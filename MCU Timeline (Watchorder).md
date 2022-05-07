@@ -1,7 +1,7 @@
 ### [List Basis](https://www.digitalspy.com/movies/a825774/marvel-cinematic-universe-in-chronological-order/)
 
 ---
-[ ] [ ] 1. 1. 
+ 
 |  Number | Title                                                                                                                                           |
 |--------:|:------------------------------------------------------------------------------------------------------------------------------------------------|
 | **001** | **[Captain America: The First Avenger](https://www.disneyplus.com/de-de/movies/marvel-studios-captain-america-the-first-avenger/6xvB6xZ4r95O)** |
