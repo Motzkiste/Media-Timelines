@@ -85,5 +85,5 @@
 | **079** | **Spider-Man: No Way Home**                                                                                                                                               |
 | **080** | **[Doctor Strange in the Multiverse of Madness](https://www.disneyplus.com/de-de/movies/doctor-strange-in-the-multiverse-of-madness/27EiqSW4jIyH)**                       |
 |     081 | [Hawkeye](https://www.disneyplus.com/de-de/series/hawkeye/11Zy8m9Dkj5l)                                                                                                   |
-|     082 | [Moon Night](https://www.disneyplus.com/de-de/series/moon-knight/4S3oOF1knocS)                                                                                            |
+|     082 | [Moon Knight](https://www.disneyplus.com/de-de/series/moon-knight/4S3oOF1knocS)                                                                                           |
 |     083 | [Mr Marvel](https://www.disneyplus.com/de-de/series/ms-marvel/45BsikoMcOOo)                                                                                               |
