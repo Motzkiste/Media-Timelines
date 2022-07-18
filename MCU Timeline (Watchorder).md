@@ -43,47 +43,51 @@
 |     037 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S03E11-19                                                               |
 |     038 | [Iron Fist](https://www.disneyplus.com/de-de/series/iron-fist/24YlE6bSZy6E) - S01                                                                                         |
 | **039** | **[Captain America: Civil War](https://www.disneyplus.com/de-de/movies/marvel-studios-the-first-avenger-civil-war/4ovfyKnnIBCg)**                                         |
-| **040** | **[Black Widow](https://www.disneyplus.com/de-de/movies/black-widow/3VfTap90rwZC)**                                                                                       |
-|     041 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S03E20-22                                                               |
-|     042 | [The Defenders](https://www.disneyplus.com/de-de/series/the-defenders/1vLuQyD9nTYk) - S01                                                                                 |
-|     043 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S04E01-06                                                               |
-| **044** | **[Doctor Strange](https://www.disneyplus.com/de-de/movies/marvel-studios-doctor-strange/4GgMJ1aHKHA2)**                                                                  |
-| **045** | **[Black Panther](https://www.disneyplus.com/de-de/movies/marvel-studios-black-panther/1GuXuYPj99Ke)**                                                                    |
-|     046 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S04E07-08                                                               |
-|   *047* | *[Agengs of S.H.I.E.L.D.: Slingshot](https://www.marvel.com/slingshot)  - S01E01-06*                                                                                      |
-|     048 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S04E09-22                                                               |
-| **049** | **[Spider-Man: Homecoming](https://www.netflix.com/watch/80166369)**                                                                                                      |
-| **050** | **[Thor: Ragnarok](https://www.disneyplus.com/de-de/movies/marvel-studios-thor-tag-der-entscheidung/3XqAT8UV8ojS)**                                                       |
-|     051 | [Inhumans](https://www.disneyplus.com/de-de/series/inhumans/6VZXWp9jaYsT) - S01                                                                                           |
-|     052 | [The Punisher](https://www.disneyplus.com/de-de/series/the-punisher/6JOZHgU6cBS3) - S01                                                                                   |
-|     053 | [Runaways](https://www.disneyplus.com/de-de/series/runaways/FrnyN9YoJj46) - S01                                                                                           |
-|     054 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S05E01-10                                                               |
-|     055 | [Jessica Jones](https://www.disneyplus.com/de-de/series/jessica-jones/4LX4rNmINp5y) - S02                                                                                 |
-|     056 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S05E11-18                                                               |
-|     057 | [Cloak & Dagger](https://www.disneyplus.com/series/cloak-dagger/4mUMHeti2YCc) - S01                                                                                       |
-|     058 | [Cloak & Dagger](https://www.disneyplus.com/series/cloak-dagger/4mUMHeti2YCc) - S02                                                                                       |
-|     059 | [Luke Cage](https://www.disneyplus.com/de-de/series/luke-cage/1L458elR85KN) - S02                                                                                         |
-|     060 | [Iron Fist](https://www.disneyplus.com/de-de/series/iron-fist/24YlE6bSZy6E) - S02                                                                                         |
-|     061 | [Daredevil](https://www.disneyplus.com/de-de/series/daredevil/5jKSWL7ZMg50) - S03                                                                                         |
-|     062 | [Runaways](https://www.disneyplus.com/de-de/series/runaways/FrnyN9YoJj46) - S02                                                                                           |
-|     063 | [The Punisher](https://www.disneyplus.com/de-de/series/the-punisher/6JOZHgU6cBS3) - S02                                                                                   |
-|     064 | [Jessica Jones](https://www.disneyplus.com/de-de/series/jessica-jones/4LX4rNmINp5y) - S03                                                                                 |
-| **065** | **[Ant-Man and the Wasp](https://www.disneyplus.com/de-de/movies/marvel-studios-ant-man-and-the-wasp/5D7wkVHmlCKU)**                                                      |
-| **066** | **[Avengers: Infinity War](https://www.disneyplus.com/de-de/movies/marvel-studios-avengers-infinity-war/1WEuZ7H6y39v)**                                                   |
-|     067 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S05E19-22                                                               |
-|     068 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S06                                                                     |
-|     069 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S07                                                                     |
-|     070 | [Runaways](https://www.disneyplus.com/de-de/series/runaways/FrnyN9YoJj46) - S03                                                                                           |
-| **071** | **[Avengers: Endgame](https://www.disneyplus.com/de-de/movies/avengers-endgame/aRbVJUb2h2Rf)**                                                                            |
-|     072 | [Loki](https://www.disneyplus.com/de-de/series/loki/6pARMvILBGzF)                                                                                                         |
-|     073 | [What If...?](https://www.disneyplus.com/de-de/series/what-if/7672ZVj1ZxU9)                                                                                               |
-|     074 | [WandaVision](https://www.disneyplus.com/de-de/series/wandavision/4SrN28ZjDLwH)                                                                                           |
-|     075 | [The Falcon and the Winter Soldier](https://www.disneyplus.com/de-de/series/the-falcon-and-the-winter-soldier/4gglDBMx8icA)                                               |
-| **076** | **[Shang-Chi and the Legend of the Ten Rings](https://www.disneyplus.com/de-de/movies/shang-chi-and-the-legend-of-the-ten-rings/5GyV9sf9Y041)**                           |
-| **077** | **[Eternals](https://www.disneyplus.com/de-de/movies/eternals/5cmhJAtkt6Jk)**                                                                                             |
-| **078** | **Spider-Man: Far From Home**                                                                                                                                             |
-| **079** | **Spider-Man: No Way Home**                                                                                                                                               |
-| **080** | **[Doctor Strange in the Multiverse of Madness](https://www.disneyplus.com/de-de/movies/doctor-strange-in-the-multiverse-of-madness/27EiqSW4jIyH)**                       |
-|     081 | [Hawkeye](https://www.disneyplus.com/de-de/series/hawkeye/11Zy8m9Dkj5l)                                                                                                   |
-|     082 | [Moon Knight](https://www.disneyplus.com/de-de/series/moon-knight/4S3oOF1knocS)                                                                                           |
-|     083 | [Ms Marvel](https://www.disneyplus.com/de-de/series/ms-marvel/45BsikoMcOOo)                                                                                               |
+|   *040* | *[Team Thor: Part 1](https://www.disneyplus.com/de-de/movies/team-thor-teil-1/1TzAxRHo4kjK)*                                                                              |
+|   *041* | *[Team Thor: Part 2](https://www.disneyplus.com/de-de/movies/team-thor-teil-2/bzhxJXTnvgD1)*                                                                              |
+| **042** | **[Black Widow](https://www.disneyplus.com/de-de/movies/black-widow/3VfTap90rwZC)**                                                                                       |
+|     043 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S03E20-22                                                               |
+|     044 | [The Defenders](https://www.disneyplus.com/de-de/series/the-defenders/1vLuQyD9nTYk) - S01                                                                                 |
+|     045 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S04E01-06                                                               |
+| **046** | **[Doctor Strange](https://www.disneyplus.com/de-de/movies/marvel-studios-doctor-strange/4GgMJ1aHKHA2)**                                                                  |
+| **047** | **[Black Panther](https://www.disneyplus.com/de-de/movies/marvel-studios-black-panther/1GuXuYPj99Ke)**                                                                    |
+|     048 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S04E07-08                                                               |
+|   *049* | *[Agengs of S.H.I.E.L.D.: Slingshot](https://www.marvel.com/slingshot)  - S01E01-06*                                                                                      |
+|     050 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S04E09-22                                                               |
+| **051** | **[Spider-Man: Homecoming](https://www.netflix.com/watch/80166369)**                                                                                                      |
+| **052** | **[Thor: Ragnarok](https://www.disneyplus.com/de-de/movies/marvel-studios-thor-tag-der-entscheidung/3XqAT8UV8ojS)**                                                       |
+|   *053* | *[Team Darryl](https://www.disneyplus.com/de-de/movies/team-darryl/j3CxRd2OEgVA)*                                                                                         |
+|     054 | [Inhumans](https://www.disneyplus.com/de-de/series/inhumans/6VZXWp9jaYsT) - S01                                                                                           |
+|     055 | [The Punisher](https://www.disneyplus.com/de-de/series/the-punisher/6JOZHgU6cBS3) - S01                                                                                   |
+|     056 | [Runaways](https://www.disneyplus.com/de-de/series/runaways/FrnyN9YoJj46) - S01                                                                                           |
+|     057 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S05E01-10                                                               |
+|     058 | [Jessica Jones](https://www.disneyplus.com/de-de/series/jessica-jones/4LX4rNmINp5y) - S02                                                                                 |
+|     059 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S05E11-18                                                               |
+|     060 | [Cloak & Dagger](https://www.disneyplus.com/series/cloak-dagger/4mUMHeti2YCc) - S01                                                                                       |
+|     061 | [Cloak & Dagger](https://www.disneyplus.com/series/cloak-dagger/4mUMHeti2YCc) - S02                                                                                       |
+|     062 | [Luke Cage](https://www.disneyplus.com/de-de/series/luke-cage/1L458elR85KN) - S02                                                                                         |
+|     063 | [Iron Fist](https://www.disneyplus.com/de-de/series/iron-fist/24YlE6bSZy6E) - S02                                                                                         |
+|     064 | [Daredevil](https://www.disneyplus.com/de-de/series/daredevil/5jKSWL7ZMg50) - S03                                                                                         |
+|     065 | [Runaways](https://www.disneyplus.com/de-de/series/runaways/FrnyN9YoJj46) - S02                                                                                           |
+|     066 | [The Punisher](https://www.disneyplus.com/de-de/series/the-punisher/6JOZHgU6cBS3) - S02                                                                                   |
+|     067 | [Jessica Jones](https://www.disneyplus.com/de-de/series/jessica-jones/4LX4rNmINp5y) - S03                                                                                 |
+| **068** | **[Ant-Man and the Wasp](https://www.disneyplus.com/de-de/movies/marvel-studios-ant-man-and-the-wasp/5D7wkVHmlCKU)**                                                      |
+| **069** | **[Avengers: Infinity War](https://www.disneyplus.com/de-de/movies/marvel-studios-avengers-infinity-war/1WEuZ7H6y39v)**                                                   |
+|     070 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S05E19-22                                                               |
+|     071 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S06                                                                     |
+|     072 | [Agents of S.H.I.E.L.D.](https://www.disneyplus.com/de-de/series/agents-of-shield/2UT4VQrwpVgi) - S07                                                                     |
+|     073 | [Runaways](https://www.disneyplus.com/de-de/series/runaways/FrnyN9YoJj46) - S03                                                                                           |
+| **074** | **[Avengers: Endgame](https://www.disneyplus.com/de-de/movies/avengers-endgame/aRbVJUb2h2Rf)**                                                                            |
+|     075 | [Loki](https://www.disneyplus.com/de-de/series/loki/6pARMvILBGzF)                                                                                                         |
+|     076 | [What If...?](https://www.disneyplus.com/de-de/series/what-if/7672ZVj1ZxU9)                                                                                               |
+|     077 | [WandaVision](https://www.disneyplus.com/de-de/series/wandavision/4SrN28ZjDLwH)                                                                                           |
+|     078 | [The Falcon and the Winter Soldier](https://www.disneyplus.com/de-de/series/the-falcon-and-the-winter-soldier/4gglDBMx8icA)                                               |
+| **079** | **[Shang-Chi and the Legend of the Ten Rings](https://www.disneyplus.com/de-de/movies/shang-chi-and-the-legend-of-the-ten-rings/5GyV9sf9Y041)**                           |
+| **080** | **[Eternals](https://www.disneyplus.com/de-de/movies/eternals/5cmhJAtkt6Jk)**                                                                                             |
+| **081** | **Spider-Man: Far From Home**                                                                                                                                             |
+| **082** | **Spider-Man: No Way Home**                                                                                                                                               |
+| **083** | **[Doctor Strange in the Multiverse of Madness](https://www.disneyplus.com/de-de/movies/doctor-strange-in-the-multiverse-of-madness/27EiqSW4jIyH)**                       |
+|     084 | [Hawkeye](https://www.disneyplus.com/de-de/series/hawkeye/11Zy8m9Dkj5l)                                                                                                   |
+|     085 | [Moon Knight](https://www.disneyplus.com/de-de/series/moon-knight/4S3oOF1knocS)                                                                                           |
+|     086 | [Ms Marvel](https://www.disneyplus.com/de-de/series/ms-marvel/45BsikoMcOOo)                                                                                               |
+| **087** | **Thor: Love and Thunder**                                                                                                                                                |
