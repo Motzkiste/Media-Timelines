@@ -22,71 +22,73 @@
 20. [Agents of S.H.I.E.L.D.] - S01E17-22
 21. **[Guardians of the Galaxy]**
 22. **[Guardians of the Galaxy Vol. 2]**
-23. [Daredevil] - S01
-24. [Agents of S.H.I.E.L.D.] - S02E01-10
-25. [Jessica Jones] - S01
-26. [Agents of S.H.I.E.L.D.] - S02E11-19
-27. **[Avengers: Age of Ultron]**
-28. [Agents of S.H.I.E.L.D.] - S02E20-22
-29. [Daredevil] - S02E01-04
-30. [Luke Cage] - S01E01-04
-31. [Daredevil] - S02E05-11
-32. [Luke Cage] - S01E05-08
-33. [Daredevil] - S02E12-13
-34. [Luke Cage] - S01E09-13
-35. **[Ant-Man]**
-36. [Agents of S.H.I.E.L.D.] - S03E01-10
-37. [Agents of S.H.I.E.L.D.] - S03E11-19
-38. [Iron Fist] - S01
-39. **[Captain America: Civil War]**
-40. *[One Shot: Team Thor - Part 1]*
-41. *[One Shot: Team Thor - Part 2]*
-42. **[Black Widow]**
-43. [Agents of S.H.I.E.L.D.] - S03E20-22
-44. [The Defenders] - S01
-45. [Agents of S.H.I.E.L.D.] - S04E01-06
-46. **[Doctor Strange]**
-47. **[Black Panther]**
-48. [Agents of S.H.I.E.L.D.] - S04E07-08
-49. *[Agents of S.H.I.E.L.D.: Slingshot] - S01*
-50. [Agents of S.H.I.E.L.D.] - S04E09-22
-51. **[Spider-Man: Homecoming]**
-52. **[Thor: Ragnarok]**
-53. *[One Shot: Team Darryl]*
-54. [Inhumans] - S01
-55. [The Punisher] - S01
-56. [Runaways] - S01
-57. [Agents of S.H.I.E.L.D.] - S05E01-10
-58. [Jessica Jones] - S02
-59. [Agents of S.H.I.E.L.D.] - S05E11-18
-60. [Cloak & Dagger] - S01
-61. [Cloak & Dagger] - S02
-62. [Luke Cage] - S02
-63. [Iron Fist] - S02
-64. [Daredevil] - S03
-65. [Runaways] - S02
-66. [The Punisher] - S02
-67. [Jessica Jones] - S03
-68. **[Ant-Man and the Wasp]**
-69. **[Avengers: Infinity War]**
-70. [Agents of S.H.I.E.L.D.] - S05E19-22
-71. [Agents of S.H.I.E.L.D.] - S06
-72. [Agents of S.H.I.E.L.D.] - S07
-73. [Runaways] - S03
-74. **[Avengers: Endgame]**
-75. [Loki] - S01
-76. [What If...?] - S01
-77. [WandaVision] - S01
-78. [The Falcon and the Winter Soldier] - S01
-79. **[Shang-Chi and the Legend of the Ten Rings]**
-80. **[Eternals]**
-81. **[Spider-Man: Far From Home]**
-82. **[Spider-Man: No Way Home]**
-83. **[Doctor Strange in the Multiverse of Madness]**
-84. [Hawkeye] - S01
-85. [Moon Knight] - S01
-86. [Ms. Marvel] - S01
-87. **[Thor: Love and Thunder]**
+23. [I am Groot] - [1], [2], [3], [4], [5]
+24. [Daredevil] - S01
+25. [Agents of S.H.I.E.L.D.] - S02E01-10
+26. [Jessica Jones] - S01
+27. [Agents of S.H.I.E.L.D.] - S02E11-19
+28. **[Avengers: Age of Ultron]**
+29. [Agents of S.H.I.E.L.D.] - S02E20-22
+30. [Daredevil] - S02E01-04
+31. [Luke Cage] - S01E01-04
+32. [Daredevil] - S02E05-11
+33. [Luke Cage] - S01E05-08
+34. [Daredevil] - S02E12-13
+35. [Luke Cage] - S01E09-13
+36. **[Ant-Man]**
+37. [Agents of S.H.I.E.L.D.] - S03E01-10
+38. [Agents of S.H.I.E.L.D.] - S03E11-19
+39. [Iron Fist] - S01
+40. **[Captain America: Civil War]**
+41. *[One Shot: Team Thor - Part 1]*
+42. *[One Shot: Team Thor - Part 2]*
+43. **[Black Widow]**
+44. [Agents of S.H.I.E.L.D.] - S03E20-22
+45. [The Defenders] - S01
+46. [Agents of S.H.I.E.L.D.] - S04E01-06
+47. **[Doctor Strange]**
+48. **[Black Panther]**
+49. [Agents of S.H.I.E.L.D.] - S04E07-08
+50. *[Agents of S.H.I.E.L.D.: Slingshot] - S01*
+51. [Agents of S.H.I.E.L.D.] - S04E09-22
+52. **[Spider-Man: Homecoming]**
+53. **[Thor: Ragnarok]**
+54. *[One Shot: Team Darryl]*
+55. [Inhumans] - S01
+56. [The Punisher] - S01
+57. [Runaways] - S01
+58. [Agents of S.H.I.E.L.D.] - S05E01-10
+59. [Jessica Jones] - S02
+60. [Agents of S.H.I.E.L.D.] - S05E11-18
+61. [Cloak & Dagger] - S01
+62. [Cloak & Dagger] - S02
+63. [Luke Cage] - S02
+64. [Iron Fist] - S02
+65. [Daredevil] - S03
+66. [Runaways] - S02
+67. [The Punisher] - S02
+68. [Jessica Jones] - S03
+69. **[Ant-Man and the Wasp]**
+70. **[Avengers: Infinity War]**
+71. [Agents of S.H.I.E.L.D.] - S05E19-22
+72. [Agents of S.H.I.E.L.D.] - S06
+73. [Agents of S.H.I.E.L.D.] - S07
+74. [Runaways] - S03
+75. **[Avengers: Endgame]**
+76. [Loki] - S01
+77. [What If...?] - S01
+78. [WandaVision] - S01
+79. [The Falcon and the Winter Soldier] - S01
+80. **[Shang-Chi and the Legend of the Ten Rings]**
+81. [She-Hulk: Attorney at Law]
+82. **[Eternals]**
+83. **[Spider-Man: Far From Home]**
+84. **[Spider-Man: No Way Home]**
+85. **[Doctor Strange in the Multiverse of Madness]**
+86. [Hawkeye] - S01
+87. [Moon Knight] - S01
+88. [Ms. Marvel] - S01
+89. **[Thor: Love and Thunder]**
 
 ---
 
@@ -129,6 +131,12 @@
 [Cloak & Dagger]: https://www.justwatch.com/de/Serie/Marvels-Cloak-und-Dagger
 [Daredevil]: https://www.justwatch.com/de/Serie/Marvels-Daredevil
 [Hawkeye]: https://www.justwatch.com/de/Serie/Hawkeye
+[I am Groot]: https://www.justwatch.com/de/Serie/I-Am-Groot
+[1]: https://www.justwatch.com/de/Film/Groots-First-Steps
+[2]: https://www.justwatch.com/de/Film/The-Little-Guy
+[3]: https://www.justwatch.com/de/Film/Groots-Pursuit
+[4]: https://www.justwatch.com/de/Film/Groot-Takes-a-Bath
+[5]: https://www.justwatch.com/de/Film/Das-Meisterwerk
 [Inhumans]: https://www.justwatch.com/de/Serie/Marvels-Inhumans
 [Iron Fist]: https://www.justwatch.com/de/Serie/Marvels-Iron-Fist
 [Jessica Jones]: https://www.justwatch.com/de/Serie/Marvels-Jessica-Jones
@@ -137,6 +145,7 @@
 [Moon Knight]: https://www.justwatch.com/de/Serie/Moon-Knight
 [Ms. Marvel]: https://www.justwatch.com/de/Serie/Ms-Marvel
 [Runaways]: https://www.justwatch.com/de/Serie/Marvels-Runaways
+[She-Hulk: Attorney at Law]: https://www.justwatch.com/de/Serie/She-Hulk
 [The Defenders]: https://www.justwatch.com/de/Serie/Marvels-The-Defenders
 [The Falcon and the Winter Soldier]: https://www.justwatch.com/de/Serie/The-Falcon-and-The-Winter-Soldier
 [The Punisher]: https://www.justwatch.com/de/Serie/Marvels-The-Punisher
