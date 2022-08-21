@@ -22,7 +22,7 @@
 20. [Agents of S.H.I.E.L.D.] - S01E17-22
 21. **[Guardians of the Galaxy]**
 22. **[Guardians of the Galaxy Vol. 2]**
-23. [I am Groot] - [1], [2], [3], [4], [5]
+23. [I am Groot] - S01E[01], [02], [03], [04] & [05]
 24. [Daredevil] - S01
 25. [Agents of S.H.I.E.L.D.] - S02E01-10
 26. [Jessica Jones] - S01
@@ -80,7 +80,7 @@
 78. [WandaVision] - S01
 79. [The Falcon and the Winter Soldier] - S01
 80. **[Shang-Chi and the Legend of the Ten Rings]**
-81. [She-Hulk: Attorney at Law]
+81. [She-Hulk: Attorney at Law] - S01
 82. **[Eternals]**
 83. **[Spider-Man: Far From Home]**
 84. **[Spider-Man: No Way Home]**
@@ -132,11 +132,11 @@
 [Daredevil]: https://www.justwatch.com/de/Serie/Marvels-Daredevil
 [Hawkeye]: https://www.justwatch.com/de/Serie/Hawkeye
 [I am Groot]: https://www.justwatch.com/de/Serie/I-Am-Groot
-[1]: https://www.justwatch.com/de/Film/Groots-First-Steps
-[2]: https://www.justwatch.com/de/Film/The-Little-Guy
-[3]: https://www.justwatch.com/de/Film/Groots-Pursuit
-[4]: https://www.justwatch.com/de/Film/Groot-Takes-a-Bath
-[5]: https://www.justwatch.com/de/Film/Das-Meisterwerk
+[01]: https://www.justwatch.com/de/Film/Groots-First-Steps
+[02]: https://www.justwatch.com/de/Film/The-Little-Guy
+[03]: https://www.justwatch.com/de/Film/Groots-Pursuit
+[04]: https://www.justwatch.com/de/Film/Groot-Takes-a-Bath
+[05]: https://www.justwatch.com/de/Film/Das-Meisterwerk
 [Inhumans]: https://www.justwatch.com/de/Serie/Marvels-Inhumans
 [Iron Fist]: https://www.justwatch.com/de/Serie/Marvels-Iron-Fist
 [Jessica Jones]: https://www.justwatch.com/de/Serie/Marvels-Jessica-Jones
