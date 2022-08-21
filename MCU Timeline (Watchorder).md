@@ -1,96 +1,94 @@
 ### [List Basis](https://www.digitalspy.com/movies/a825774/marvel-cinematic-universe-in-chronological-order/)
 
 ---
- 
-|  Number | Title                                                            |
-|--------:|:-----------------------------------------------------------------|
-| **001** | **[Captain America: The First Avenger]**                         |
-|     002 | [Agent Carter] - S01                                             |
-|     003 | [Agent Carter] - S02                                             |
-|   *004* | *[One Shot: Agent Carter]*                                       |
-| **005** | **[Captain Marvel]**                                             |
-| **006** | **[Iron Man]**                                                   |
-| **007** | **[Iron Man 2]**                                                 |
-| **008** | **[The Incredible Hulk]**                                        |
-|   *009* | *[One Shot: The Consultant]*                                     |
-|   *010* | *[One Shot: A Funny Thing Happened on the Way to Thor's Hammer]* |
-| **011** | **[Thor]**                                                       |
-| **012** | **[The Avengers]**                                               |
-|   *013* | *[One Shot: Item 47]*                                            |
-| **014** | **[Iron Man 3]**                                                 |
-|   *015* | *[One Shot: All Hail the King]*                                  |
-|     016 | [Agents of S.H.I.E.L.D.] - S01E01-07                             |
-| **017** | **[Thor: The Dark World]**                                       |
-|     018 | [Agents of S.H.I.E.L.D.] - S01E08-16                             |
-| **019** | **[Captain America: The Winter Soldier]**                        |
-|     020 | [Agents of S.H.I.E.L.D.] - S01E17-22                             |
-| **021** | **[Guardians of the Galaxy]**                                    |
-| **022** | **[Guardians of the Galaxy Vol. 2]**                             |
-|     023 | [Daredevil] - S01                                                |
-|     024 | [Agents of S.H.I.E.L.D.] - S02E01-10                             |
-|     025 | [Jessica Jones] - S01                                            |
-|     026 | [Agents of S.H.I.E.L.D.] - S02E11-19                             |
-| **027** | **[Avengers: Age of Ultron]**                                    |
-|     028 | [Agents of S.H.I.E.L.D.] - S02E20-22                             |
-|     029 | [Daredevil] - S02E01-04                                          |
-|     030 | [Luke Cage] - S01E01-04                                          |
-|     031 | [Daredevil] - S02E05-11                                          |
-|     032 | [Luke Cage] - S01E05-08                                          |
-|     033 | [Daredevil] - S02E12-13                                          |
-|     034 | [Luke Cage] - S01E09-13                                          |
-| **035** | **[Ant-Man]**                                                    |
-|     036 | [Agents of S.H.I.E.L.D.] - S03E01-10                             |
-|     037 | [Agents of S.H.I.E.L.D.] - S03E11-19                             |
-|     038 | [Iron Fist] - S01                                                |
-| **039** | **[Captain America: Civil War]**                                 |
-|   *040* | *[Team Thor: Part 1]*                                            |
-|   *041* | *[Team Thor: Part 2]*                                            |
-| **042** | **[Black Widow]**                                                |
-|     043 | [Agents of S.H.I.E.L.D.] - S03E20-22                             |
-|     044 | [The Defenders] - S01                                            |
-|     045 | [Agents of S.H.I.E.L.D.] - S04E01-06                             |
-| **046** | **[Doctor Strange]**                                             |
-| **047** | **[Black Panther]**                                              |
-|     048 | [Agents of S.H.I.E.L.D.] - S04E07-08                             |
-|   *049* | *[Agents of S.H.I.E.L.D.: Slingshot] - S01*                      |
-|     050 | [Agents of S.H.I.E.L.D.] - S04E09-22                             |
-| **051** | **[Spider-Man: Homecoming]**                                     |
-| **052** | **[Thor: Ragnarok]**                                             |
-|   *053* | *[Team Darryl]*                                                  |
-|     054 | [Inhumans] - S01                                                 |
-|     055 | [The Punisher] - S01                                             |
-|     056 | [Runaways] - S01                                                 |
-|     057 | [Agents of S.H.I.E.L.D.] - S05E01-10                             |
-|     058 | [Jessica Jones] - S02                                            |
-|     059 | [Agents of S.H.I.E.L.D.] - S05E11-18                             |
-|     060 | [Cloak & Dagger] - S01                                           |
-|     061 | [Cloak & Dagger] - S02                                           |
-|     062 | [Luke Cage] - S02                                                |
-|     063 | [Iron Fist] - S02                                                |
-|     064 | [Daredevil] - S03                                                |
-|     065 | [Runaways] - S02                                                 |
-|     066 | [The Punisher] - S02                                             |
-|     067 | [Jessica Jones] - S03                                            |
-| **068** | **[Ant-Man and the Wasp]**                                       |
-| **069** | **[Avengers: Infinity War]**                                     |
-|     070 | [Agents of S.H.I.E.L.D.] - S05E19-22                             |
-|     071 | [Agents of S.H.I.E.L.D.] - S06                                   |
-|     072 | [Agents of S.H.I.E.L.D.] - S07                                   |
-|     073 | [Runaways] - S03                                                 |
-| **074** | **[Avengers: Endgame]**                                          |
-|     075 | [Loki] - S01                                                     |
-|     076 | [What If...?] - S01                                              |
-|     077 | [WandaVision] - S01                                              |
-|     078 | [The Falcon and the Winter Soldier] - S01                        |
-| **079** | **[Shang-Chi and the Legend of the Ten Rings]**                  |
-| **080** | **[Eternals]**                                                   |
-| **081** | **[Spider-Man: Far From Home]**                                  |
-| **082** | **[Spider-Man: No Way Home]**                                    |
-| **083** | **[Doctor Strange in the Multiverse of Madness]**                |
-|     084 | [Hawkeye] - S01                                                  |
-|     085 | [Moon Knight] - S01                                              |
-|     086 | [Ms Marvel] - S01                                                |
-| **087** | **[Thor: Love and Thunder]**                                     |
+
+1. **[Captain America: The First Avenger]**
+2. [Agent Carter] - S01
+3. [Agent Carter] - S02
+4. *[One Shot: Agent Carter]*
+5. **[Captain Marvel]**
+6. **[Iron Man]**
+7. **[Iron Man 2]**
+8. **[The Incredible Hulk]**
+9. *[One Shot: The Consultant]*
+10. *[One Shot: A Funny Thing Happened on the Way to Thor's Hammer]*
+11. **[Thor]**
+12. **[The Avengers]**
+13. *[One Shot: Item 47]*
+14. **[Iron Man 3]**
+15. *[One Shot: All Hail the King]*
+16. [Agents of S.H.I.E.L.D.] - S01E01-07
+17. **[Thor: The Dark World]**
+18. [Agents of S.H.I.E.L.D.] - S01E08-16
+19. **[Captain America: The Winter Soldier]**
+20. [Agents of S.H.I.E.L.D.] - S01E17-22
+21. **[Guardians of the Galaxy]**
+22. **[Guardians of the Galaxy Vol. 2]**
+23. [Daredevil] - S01
+24. [Agents of S.H.I.E.L.D.] - S02E01-10
+25. [Jessica Jones] - S01
+26. [Agents of S.H.I.E.L.D.] - S02E11-19
+27. **[Avengers: Age of Ultron]**
+28. [Agents of S.H.I.E.L.D.] - S02E20-22
+29. [Daredevil] - S02E01-04
+30. [Luke Cage] - S01E01-04
+31. [Daredevil] - S02E05-11
+32. [Luke Cage] - S01E05-08
+33. [Daredevil] - S02E12-13
+34. [Luke Cage] - S01E09-13
+35. **[Ant-Man]**
+36. [Agents of S.H.I.E.L.D.] - S03E01-10
+37. [Agents of S.H.I.E.L.D.] - S03E11-19
+38. [Iron Fist] - S01
+39. **[Captain America: Civil War]**
+40. *[Team Thor: Part 1]*
+41. *[Team Thor: Part 2]*
+42. **[Black Widow]**
+43. [Agents of S.H.I.E.L.D.] - S03E20-22
+44. [The Defenders] - S01
+45. [Agents of S.H.I.E.L.D.] - S04E01-06
+46. **[Doctor Strange]**
+47. **[Black Panther]**
+48. [Agents of S.H.I.E.L.D.] - S04E07-08
+49. *[Agents of S.H.I.E.L.D.: Slingshot] - S01*
+50. [Agents of S.H.I.E.L.D.] - S04E09-22
+51. **[Spider-Man: Homecoming]**
+52. **[Thor: Ragnarok]**
+53. *[Team Darryl]*
+54. [Inhumans] - S01
+55. [The Punisher] - S01
+56. [Runaways] - S01
+57. [Agents of S.H.I.E.L.D.] - S05E01-10
+58. [Jessica Jones] - S02
+59. [Agents of S.H.I.E.L.D.] - S05E11-18
+60. [Cloak & Dagger] - S01
+61. [Cloak & Dagger] - S02
+62. [Luke Cage] - S02
+63. [Iron Fist] - S02
+64. [Daredevil] - S03
+65. [Runaways] - S02
+66. [The Punisher] - S02
+67. [Jessica Jones] - S03
+68. **[Ant-Man and the Wasp]**
+69. **[Avengers: Infinity War]**
+70. [Agents of S.H.I.E.L.D.] - S05E19-22
+71. [Agents of S.H.I.E.L.D.] - S06
+72. [Agents of S.H.I.E.L.D.] - S07
+73. [Runaways] - S03
+74. **[Avengers: Endgame]**
+75. [Loki] - S01
+76. [What If...?] - S01
+77. [WandaVision] - S01
+78. [The Falcon and the Winter Soldier] - S01
+79. **[Shang-Chi and the Legend of the Ten Rings]**
+80. **[Eternals]**
+81. **[Spider-Man: Far From Home]**
+82. **[Spider-Man: No Way Home]**
+83. **[Doctor Strange in the Multiverse of Madness]**
+84. [Hawkeye] - S01
+85. [Moon Knight] - S01
+86. [Ms Marvel] - S01
+87. **[Thor: Love and Thunder]**
 
 <!-- Movies -->
 [Ant-Man]: https://www.disneyplus.com/de-de/movies/marvel-studios-ant-man/5c92KVf1zgUX
