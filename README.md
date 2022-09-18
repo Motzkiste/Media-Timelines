@@ -1,7 +1,15 @@
 # Media-Timelines
 
-### [MCU - Marvel Cinematic Universe]
-### [X-Men]
+### [Marvel]
 
-[MCU - Marvel Cinematic Universe]: ./MCU%20Timeline%20(Watchorder).md
-[X-Men]: ./X-Men%20Timeline%20(Watchorder).md
+<details><summary>Zeitlinien</summary>
+
+- **[Marvel Cinematic Universe]**
+- **[X-Men]**
+</details>
+
+[Marvel]: Marvel
+
+[Marvel Cinematic Universe]: Marvel/Marvel-Cinematic-Universe.md
+
+[X-Men]: Marvel/X-Men.md
