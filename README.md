@@ -7,5 +7,5 @@ Um die Branch zu w√§hlen, welche die korrten Showtitel und JustWatch-Links enth√
 
 ### [DE - Deutsch]
 
-[EN - English]: https://github.com/Motzkiste/Media-Timelines/tree/en
-[DE - Deutsch]: https://github.com/Motzkiste/Media-Timelines/tree/de
+[EN - English]: https://github.com/Motzkiste/Media-Timelines/tree/languages/en
+[DE - Deutsch]: https://github.com/Motzkiste/Media-Timelines/tree/languages/de
