@@ -1,7 +1,8 @@
-# Media-Timelines
+# Choose your language<br/>Wähle deine Sprache
 
-### [MCU - Marvel Cinematic Universe]
-### [X-Men]
+### [EN - English]
 
-[MCU - Marvel Cinematic Universe]: ./MCU%20Timeline%20(Watchorder).md
-[X-Men]: ./X-Men%20Timeline%20(Watchorder).md
+### [DE - Deutsch]
+
+[EN - English]: https://github.com/Motzkiste/Media-Timelines/tree/en
+[DE - Deutsch]: https://github.com/Motzkiste/Media-Timelines/tree/de
