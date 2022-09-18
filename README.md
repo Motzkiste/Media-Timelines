@@ -1,5 +1,7 @@
 # Choose your language<br/>Wähle deine Sprache
 
+## To select the branch with correct show titles and JustWatch links<br/>Um die Branch zu wählen, welche die korrten Showtitel und JustWatch-Links enthält
+
 ### [EN - English]
 
 ### [DE - Deutsch]
