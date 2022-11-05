@@ -89,6 +89,7 @@
 87. [Moon Knight] - S01
 88. [Ms. Marvel] - S01
 89. **[Thor: Love and Thunder]**
+90. **[Werewolf by Night]**
 
 ---
 
@@ -124,6 +125,7 @@
 [Thor: Love and Thunder]: https://www.justwatch.com/de/Film/Thor-Love-and-Thunder
 [Thor: Ragnarok]: https://www.justwatch.com/de/Film/Thor-Ragnarok
 [Thor: The Dark World]: https://www.justwatch.com/de/Film/Thor-The-Dark-Kingdom
+[Werewolf by Night]: https://www.justwatch.com/us/movie/werewolf-by-night
 
 <!-- Series -->
 [Agent Carter]: https://www.justwatch.com/de/Serie/Marvels-Agent-Carter
