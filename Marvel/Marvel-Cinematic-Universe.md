@@ -1,9 +1,9 @@
 # Marvel Cinematic Universe
 
 1. **[Captain America: The First Avenger]**
-2. [Agent Carter] - S01
-3. [Agent Carter] - S02
-4. *[One-Shot: Agent Carter]*
+2. *[One-Shot: Agent Carter]*
+3. [Agent Carter] - S01
+4. [Agent Carter] - S02
 5. **[Captain Marvel]**
 6. **[Iron Man]**
 7. **[Iron Man 2]**
@@ -80,16 +80,18 @@
 78. [WandaVision] - S01
 79. [The Falcon and the Winter Soldier] - S01
 80. **[Shang-Chi and the Legend of the Ten Rings]**
-81. [She-Hulk: Die Anwältin] - S01
-82. **[Eternals]**
-83. **[Spider-Man: Far From Home]**
-84. **[Spider-Man: No Way Home]**
-85. **[Doctor Strange in the Multiverse of Madness]**
-86. [Hawkeye] - S01
-87. [Moon Knight] - S01
+81. **[Eternals]**
+82. **[Spider-Man: Far From Home]**
+83. **[Spider-Man: No Way Home]**
+84. **[Doctor Strange in the Multiverse of Madness]**
+85. [Hawkeye] - S01
+86. [Moon Knight] - S01
+87. [She-Hulk: Die Anwältin] - S01
 88. [Ms. Marvel] - S01
 89. **[Thor: Love and Thunder]**
-90. **[Werewolf by Night]**
+90. ***[Werewolf by Night]***
+91. **[Black Panther: Wakanda Forever]**
+92. ***[The Guardians of the Galaxy Holiday Special]***
 
 ---
 
@@ -102,6 +104,7 @@
 [Avengers: Endgame]: https://www.justwatch.com/de/Film/Avengers-Endgame
 [Avengers: Infinity War]: https://www.justwatch.com/de/Film/Avengers-Infinity-War
 [Black Panther]: https://www.justwatch.com/de/Film/Black-Panther
+[Black Panther: Wakanda Forever]: https://www.justwatch.com/de/Film/Black-Panther-2
 [Black Widow]: https://www.justwatch.com/de/Film/Black-Widow-2020
 [Captain America: The First Avenger]: https://www.justwatch.com/de/Film/Captain-America-1-The-First-Avenger
 [Captain Marvel]: https://www.justwatch.com/de/Film/Captain-Marvel
@@ -120,6 +123,7 @@
 [Spider-Man: No Way Home]: https://www.justwatch.com/de/Film/Spider-Man-No-Way-Home
 [The Avengers]: https://www.justwatch.com/de/Film/Marvels-The-Avengers
 [The First Avenger: Civil War]: https://www.justwatch.com/de/Film/The-First-Avenger-Civil-War
+[The Guardians of the Galaxy Holiday Special]: https://www.justwatch.com/de/Film/The-Guardians-of-the-Galaxy-Holiday-Special
 [The Return of the First Avenger]: https://www.justwatch.com/de/Film/The-Return-of-the-First-Avenger
 [Thor]: https://www.justwatch.com/de/Film/Thor
 [Thor: Love and Thunder]: https://www.justwatch.com/de/Film/Thor-Love-and-Thunder
